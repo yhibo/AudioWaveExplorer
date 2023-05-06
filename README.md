@@ -17,19 +17,19 @@ AudioWaveExplorer is a user-friendly application for visualizing and analyzing a
 
 To install AudioWaveExplorer, clone the repository and install the required dependencies:
 
-\`\`\`sh
+```sh
 git clone https://github.com/yourusername/AudioWaveExplorer.git
 cd AudioWaveExplorer
 pip install -r requirements.txt
-\`\`\`
+```
 
 ## Usage
 
 To run AudioWaveExplorer, simply execute the `main.py` script:
 
-\`\`\`sh
+```sh
 python main.py
-\`\`\`
+```
 
 A graphical user interface will be displayed, allowing you to interact with the application and visualize audio signals.
 
