@@ -1,8 +1,8 @@
 # AudioWaveExplorer
 
-AudioWaveExplorer is a user-friendly application for visualizing and analyzing audio waveforms and frequency spectrums in real-time. Easily experiment with different waveforms, frequencies, and amplitudes, and observe their impact on audio signals.
+AudioWaveExplorer is an application for visualizing and analyzing audio waveforms and frequency spectrums in real-time. Experiment with different waveforms, frequencies, and amplitudes, and observe their impact on audio signals.
 
-![AudioWaveExplorer Screenshot](screenshot.png)
+![AudioWaveExplorer Screenshot](screenshot.jpg)
 
 ## Features
 
